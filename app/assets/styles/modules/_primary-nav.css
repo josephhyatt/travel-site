@@ -1,5 +1,6 @@
 .primary-nav {
   padding-top: 10px;
+  padding-left: 28px;
 
   @mixin atMedium {
     padding-top: 0;

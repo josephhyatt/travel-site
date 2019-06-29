@@ -1237,6 +1237,7 @@ Instead edit gulp/templates/sprite */
 
 .primary-nav {
   padding-top: 10px;
+  padding-left: 28px;
 }
 
 @media (min-width: 800px) {
